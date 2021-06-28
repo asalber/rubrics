@@ -87,6 +87,7 @@ Regression,Compute the coefficient of determination from the equations of the re
 Regression,Interpret the coefficient of determination,3
 Regression,Compute the correlation coefficient,3
 Regression,Interpret the correlation coefficient,3
+Regression,Apply the variable transformations to convert a non linear model into a linear one,3
 Regression,Compute an exponential regression model,2
 Regression,Compute a logarithmic regression model,2
 Regression,Compare the goodness of fit of two regression models,3
@@ -98,7 +99,7 @@ Probability,Recognize the intersection of two events,1
 Probability,Recognize the contrary of an event,1
 Probability,Recognize the difference of two events,1
 Probability,Recognize a conditional event,1
-Probability,Determine if two events are compatible or incompatible,
+Probability,Determine if two events are compatible or incompatible,2
 Probability,Apply the Morgan’s laws,2
 Probability,Compute a probability with the Laplace definition ,1
 Probability,Compute a probability with the frequentist definition,1
@@ -112,10 +113,10 @@ Probability,Construct the probability tree,3
 Probability,Compute the probability of an event adding the probability of its elements,2
 Probability,Apply the total probability theorem,3
 Probability,Apply the Bayes theorem,3
-Probability,Interpret a probability,
+Probability,Interpret a probability,2
 Epidemiology,Compute the prevalence of a medical event,2
 Epidemiology,Compute the cumulative incidence of a medical event,1
-Epidemiology,Compute the attributable risk of a medical event,
+Epidemiology,Compute the attributable risk of a medical event,2
 Epidemiology,Compute the risk of a medical event,2
 Epidemiology,Compute the relative risk of a medical event,2
 Epidemiology,Interpret the relative risk,3
@@ -123,6 +124,7 @@ Epidemiology,Compute the odds of a medical event,2
 Epidemiology,Compute the odds ratio of a medical event,2
 Epidemiology,Interpret the odds ratio,3
 Epidemiology,Identify the more suitable association measure depending on the type of study (prospective or retrospective),3
+Epidemiology,Recognize the prevalence of an event,1
 Epidemiology,"Recognize the true positives, true negatives, false positives and false negatives of a diagnostic test",1
 Epidemiology,Recognize the sensitivity of a diagnostic test,1
 Epidemiology,Recognize the specificity of a diagnostic test,1
@@ -175,6 +177,7 @@ Discrete random variables,Compute the mean of a Poisson distribution,1
 Discrete random variables,Compute the variance of a Poisson distribution,1
 Discrete random variables,Apply the law of rare events,3
 Continuous random variables,Check if a function is a density function ,2
+Continuous random variables,Express a cumulative percentaje or numer of individuals above or below a value as a probability,1
 Continuous random variables,Compute a cumulative probability with the density function,2
 Continuous random variables,Compute the probability of an interval with the density function,2
 Continuous random variables,Compute a right cumulative probability with the distribution function,1
@@ -196,4 +199,5 @@ Continuous random variables,Undo standardization to get a percentile of a non-st
 Continuous random variables,Get the mean of a normal distribution solving an equation,2
 Continuous random variables,Get the standard deviation of a normal distribution solving an equation,2
 Continuous random variables,Get the mean and the standard deviation of a normal distribution solving a system of equations,2
+Continuous random variables,Compute the interquartile range of a normal distribution,1
 Continuous random variables,Compute the number of individuals of a population that satisfy an event from its probability,1
