@@ -20,7 +20,7 @@ Descriptive,Compute the arithmetic mean from the sampel,2
 Descriptive,Compute the arithmetic mean from the frequency table,2
 Descriptive,Compute the arithmetic mean from the sums,2
 Descriptive,Interpret the arithmetic mean,2
-Descriptive,Compute the weighted mean,1
+Descriptive,Compute the weighted mean,2
 Descriptive,Compute the median from the sample,2
 Descriptive,Compute the median from the frequency table for non-grouped data,2
 Descriptive,Compute the median from the frequency table for grouped data (interpolation),2
@@ -29,19 +29,17 @@ Descriptive,Compute the mode from the sample,1
 Descriptive,Compute the mode from the frequency distribution,1
 Descriptive,Interpret the mode,1
 Descriptive,Identify the most appropriate central tendency statistics,2
-Descriptive,Identify the cumulative frequency that corresponds to a percentile,1
 Descriptive,Compute percentiles from the frequency table for non-grouped data,2
 Descriptive,Compute percentiles from the frequency table for grouped data (interpolation),2
 Descriptive,Compute the cumulative frequency for a particular value from the frequency table for grouped data (interpolation),2
-Descriptive,Interpret percentiles,3
+Descriptive,Interpret percentiles,2
 Descriptive,Compute the range,1
 Descriptive,Compute the interquartile range,1
 Descriptive,Interpret the interquartile range,2
 Descriptive,Compute the fences for the box and whiskers plot,1
 Descriptive,Plot the box of the box and whiskers plot,1
 Descriptive,Plot the whiskers of the box and whiskers plot,1
-Descriptive,Detect outliers with the fences of the box and whiskers plot,2
-Descriptive,Interpret the central variability from the box and whiskers plot,1
+Descriptive,Detect outliers with the fences of the box and whiskers plot,1
 Descriptive,Interpret the asymmetry from the box and whiskers plot,1
 Descriptive,Compute the deviation of a value from the mean,1
 Descriptive,Compute the variance from the sample,2
@@ -50,8 +48,8 @@ Descriptive,Compute the variance from the sums of squares,2
 Descriptive,Interpret the variance,1
 Descriptive,Compute the standard deviation,1
 Descriptive,Interpret the standard deviation,2
-Descriptive,Compute the coefficient of variation,2
-Descriptive,Interpret the coefficient of variation,3
+Descriptive,Compute the coefficient of variation,1
+Descriptive,Interpret the coefficient of variation,2
 Descriptive,Compare the relative dispersion of two samples,3
 Descriptive,Compute the coefficient of skewness from the sample,2
 Descriptive,Compute the coefficient of skewness from the frequency table,2
@@ -61,7 +59,7 @@ Descriptive,Compute the coefficient of kurtosis from the sample,2
 Descriptive,Compute the coefficient of kurtosis from the frequency table,2
 Descriptive,Compute the coefficient of kurtosis from the sums,2
 Descriptive,Interpret the coefficient of kurtosis,2
-Descriptive,Check if the sample comes from a normal population with the coefficients of skewness and kurtosis,3
+Descriptive,Check if the sample comes from a normal population with the coefficients of skewness and kurtosis,2
 Descriptive,Compute the mean of a linear transformation,1
 Descriptive,Compute the standard deviation of a linear transformation,1
 Descriptive,Compute the coefficient of skewness of a linear transformation,1
@@ -73,25 +71,27 @@ Regression,Construct the joint frequency table,1
 Regression,Compute the marginal distributions from the joint frequency table,1
 Regression,Plot the scatter plot,2
 Regression,Identify the main relations shapes from the scatter plot,2
+Regression,Interprect the strengh of the correlation approximately from the scatter plot ,2
 Regression,Compute the covariance from the sample,2
 Regression,Compute de covariance from the frequency table,2
 Regression,Compute the covariance from de sums,2
 Regression,Interpret the covariance,2
-Regression,Compute the regression line,3
+Regression,Compute the regression line,2
 Regression,Compute the coefficient of regression,2
 Regression,Interpret the coefficient of regression,2
-Regression,Identify the roles (dependent or independent) of variables in a regression model,1
-Regression,Compute the means from the equations of the regression lines,1
+Regression,Identify the roles (dependent or independent) of variables in a regression model,2
+Regression,Set system of equations to get the means from the equations of the regression lines,1
+Regression,Solve the system of equations to get the the means from the equations of the regression lines,1
 Regression,Compute the coefficient of determination,3
-Regression,Compute the coefficient of determination from the equations of the regression lines,1
+Regression,Compute the coefficient of determination from the equations of the regression lines,2
 Regression,Interpret the coefficient of determination,3
-Regression,Compute the correlation coefficient,3
+Regression,Compute the correlation coefficient,2
 Regression,Interpret the correlation coefficient,3
 Regression,Apply the variable transformations to convert a non linear model into a linear one,3
 Regression,Compute an exponential regression model,2
 Regression,Compute a logarithmic regression model,2
 Regression,Compare the goodness of fit of two regression models,3
-Regression,Make predictions with regression models,1
+Regression,Make predictions with regression models,2
 Regression,"Interpret the reliability of a prediction depending on the coefficient of determination, the sample size and the range of values in the sample",3
 Regression,Detect outliers from the scatter plot,1
 Probability,Recognize the union of two events,1
