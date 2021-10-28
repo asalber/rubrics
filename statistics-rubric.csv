@@ -16,7 +16,7 @@ Descriptive,Identify the most appropriate chart to represent a frequency distrib
 Descriptive,Recognize a normal distribution (bell shaped),2
 Descriptive,Interpret the skewness of a distribution from the bar chart or histogram,1
 Descriptive,Interpret the kurtosis of a distribution from the bar chart or histogram,1
-Descriptive,Compute the arithmetic mean from the sampel,2
+Descriptive,Compute the arithmetic mean from the sample,2
 Descriptive,Compute the arithmetic mean from the frequency table,2
 Descriptive,Compute the arithmetic mean from the sums,2
 Descriptive,Interpret the arithmetic mean,2
@@ -71,7 +71,7 @@ Regression,Construct the joint frequency table,1
 Regression,Compute the marginal distributions from the joint frequency table,1
 Regression,Plot the scatter plot,2
 Regression,Identify the main relations shapes from the scatter plot,2
-Regression,Interprect the strengh of the correlation approximately from the scatter plot ,2
+Regression,Interpret the strength of the correlation approximately from the scatter plot ,2
 Regression,Compute the covariance from the sample,2
 Regression,Compute de covariance from the frequency table,2
 Regression,Compute the covariance from de sums,2
@@ -82,6 +82,8 @@ Regression,Interpret the coefficient of regression,2
 Regression,Identify the roles (dependent or independent) of variables in a regression model,2
 Regression,Set system of equations to get the means from the equations of the regression lines,1
 Regression,Solve the system of equations to get the the means from the equations of the regression lines,1
+Regression,Get the means from the graph of the regression lines,1
+Regression,Compute the slope of a regression line from its graph,1
 Regression,Compute the coefficient of determination,3
 Regression,Compute the coefficient of determination from the equations of the regression lines,2
 Regression,Interpret the coefficient of determination,3
@@ -177,7 +179,7 @@ Discrete random variables,Compute the mean of a Poisson distribution,1
 Discrete random variables,Compute the variance of a Poisson distribution,1
 Discrete random variables,Apply the law of rare events,3
 Continuous random variables,Check if a function is a density function ,2
-Continuous random variables,Express a cumulative percentaje or numer of individuals above or below a value as a probability,1
+Continuous random variables,Express a cumulative percentage or number of individuals above or below a value as a probability,1
 Continuous random variables,Compute a cumulative probability with the density function,2
 Continuous random variables,Compute the probability of an interval with the density function,2
 Continuous random variables,Compute a right cumulative probability with the distribution function,1
