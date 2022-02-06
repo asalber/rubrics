@@ -1,0 +1,67 @@
+Chapter,Item,Weight
+Fundamentals,Simplify powers,1
+Fundamentals,Simplify rational functions,1
+Fundamentals,Apply properties of logarithms,1
+Fundamentals,Apply properties of exponentials,1
+Fundamentals,Solve a first degree equation,1
+Fundamentals,Solve a second degree equation,1
+Fundamentals,Solve a system of two equations,1
+Fundamentals,Compute the image of a value through a function,1
+Fundamentals,Compute the inverse image of a value through a function,1
+Fundamentals,Identify the domain values of a function for which the function makes sense,1
+Geometry,Compute the hypotenuse of a right triangle,1
+Geometry,Compute the equation of a line passing through two points,2
+Geometry,Compute the equation of a line passing through a point with the direction of a vector,2
+Linear Algebra,Compute the modulus of a vector,1
+Linear Algebra,Compute the sum or the difference of two vectors,1
+Linear Algebra,Compute the scalar product of two vectors,1
+Linear Algebra,Compute the sum or difference of two matrices,1
+Linear Algebra,Compute the product of two matrices,2
+Linear Algebra,Compute the determinant of a square matrix,2
+Derivatives,Compute the derivative of an elementary function,1
+Derivatives,Compute the derivative of a complex function,2
+Derivatives,Apply the chain rule to compute the derivative of a composed function,2
+Derivatives,"Identify the derivative in a problem (rate of change, variation, speed, etc.)",2
+Derivatives,Interpret the derivative as an instantaneous rate of change o instantaneous speed,3
+Derivatives,Interpret the second derivative as an acceleration,3
+Derivatives,Compute the slope of the tangent line to a function at a point,2
+Derivatives,Compute the equation of the tangent line to a function at a point,2
+Derivatives,Compute the slope of the normal line to a function at a point,2
+Derivatives,Compute the equation of the normal line to function at a point,2
+Derivatives,Use the derivative to transmit the variation of the independent variable to the dependent one,3
+Derivatives,Use the derivative to transmit the variation of the dependent variable to the independent one,3
+Derivatives,Use the derivative for the transmission of absolute errors,3
+Derivatives,Use the derivative for the transmission of relative errors,3
+Derivatives,Use the derivative to approximate the variation of a function in an interval,3
+Derivatives,Use the tangent line to approximate the value of a function at a point,3
+Derivatives,Compute the critical points of a function,2
+Derivatives,Study the growth of a function,3
+Derivatives,Study the extrema of a function,3
+Derivatives,Compute the inflection points of a function,3
+Derivatives,Study the concavity of a function,3
+Integrals,Compute the antiderivative of an elementary function,1
+Integrals,Compute an integral by variable change,2
+Integrals,Compute an integral by parts,2
+Integrals,Compute the integral of a rational function,2
+Integrals,Compute the integral of a trigonometric function,2
+Integrals,Express the indefinite integral using a constant,1
+Integrals,Apply the Barrow’s rule to compute a definite integral,2
+Integrals,Compute the area between the graph of a function and the x-axis in an interval,2
+Integrals,Compute the area between the graphs of two functions in an interval,2
+ODE,Identify the dependent and independent variables in a differential equation,1
+ODE,Deduce the differential equation that explains a phenomenon,3
+ODE,Separate the variables of a separable differential equation,1
+ODE,Get the general solution of a differential equation,2
+ODE,Identify the initial conditions in a differential equation problem,1
+ODE,Get the particular solution of a differential equation,2
+ODE,Use the solution of a differential equation to predict the value of the dependent variable,1
+ODE,Use the solution of a differential equation to predict the value of the independent variable,1
+Several Variables Derivatives,Compute first order partial derivatives,3
+Several Variables Derivatives,Compute second order partial derivatives,3
+Several Variables Derivatives,Interpret a partial derivative,2
+Several Variables Derivatives,Interpret geometrically a partial derivative,2
+Several Variables Derivatives,Compute the gradient vector,2
+Several Variables Derivatives,Interpret the gradient vector,3
+Several Variables Derivatives,Identify the vector that indicates the direction of a movement in the plane or in space,2
+Several Variables Derivatives,Compute a directional derivative,2
+Several Variables Derivatives,Interpret a directional derivative,3
